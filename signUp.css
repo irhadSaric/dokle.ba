@@ -1,0 +1,48 @@
+
+
+.coverImage {
+    background:url(coverImage.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    background-color: #464646;
+    position: fixed;
+    height: 100%;
+    width: 100%;
+}
+
+.container {
+    width: 60%;
+    margin-top: 3%;
+    opacity: 0.8;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+}
+
+.form {
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.jumbotron h1 {
+    text-align: center;
+}
+
+.btn {
+    width: 100%;
+}
+
+form div {
+    margin-top: 30px;
+}
+
+input {
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.dugme {
+    width: 100%;
+    background-color: #00a505;
+}
+
